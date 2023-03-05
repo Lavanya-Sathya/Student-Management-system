@@ -1,0 +1,85 @@
+.navbar .navbar-nav .nav-link{
+    color: #000;
+    font-weight: 500;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#navbarSupportedContent li a:hover{
+    color:rgb(100, 26, 239);
+}
+#containersDash{
+  background-image: url('../images/dashboard.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#headerImg{
+    height:"30px";
+    width:"30px";
+}
+#centerPart{
+    padding:30px 20px;
+    height:100vh;
+    
+}
+#sideImage{
+    top:80px;
+    left:0px;
+}
+#list h6{
+    color:#0707a9;
+}
+#list{
+    margin:20px;
+}
+#footer{
+    display:absolute;
+    top:100vh;
+    left:0px;
+}
+/* .parent {
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+  } */
+  .child1 {
+    display: inline-block;
+    /* border: 1px solid red; */
+    /* padding: 1rem 1rem; */
+    margin-right: 33px;
+    width: 45%; 
+    vertical-align: middle;
+  }
+  .child2 {
+    display: inline-block;
+    /* border: 1px solid red; */
+    /* padding: 1rem 1rem; */
+    margin-left: 32px;
+    width: 45%; 
+    vertical-align: middle;
+  }
+  .part{
+    display: inline-block;
+    margin-right: 33px;
+    width: 20%; 
+    vertical-align: middle;
+  }
+  
+  .part1{
+    display: inline-block;
+    margin-right: 33px;
+    width: 30%; 
+    vertical-align: middle;
+  }
+  .part2{
+    display: inline-block;
+    margin-right: 33px;
+    width: 30%; 
+    vertical-align: middle;
+  }
+  .educlass{
+    display: inline-block;
+    margin-right: 15px;
+    width: 23%; 
+    vertical-align: middle;
+  }

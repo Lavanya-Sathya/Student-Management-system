@@ -1,0 +1,42 @@
+.navbar .navbar-nav .nav-link{
+    color: #000;
+    font-weight: 500;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+.carousel-item .d-block{
+    height: 450px;
+    object-fit:cover;
+}
+a{
+    color: #505050;
+}
+
+#sections{
+    text-align: center;
+    
+}
+
+#studentLogIn{
+    text-decoration: none;
+    padding: 15px 36px;
+    margin: 10px 20px;
+    border: 2px solid #341a79;
+    border-radius: 10px;
+}
+#studentLogIn:hover{
+    color: #470cea;
+}
+#adminLogIn{
+    text-decoration: none;
+    padding: 15px 40px;
+    margin: 10px 20px;
+    border: 2px solid #b04848;
+    border-radius: 10px;
+}
+#adminLogIn:hover{
+    color: #f02a2a;
+}
